@@ -1,6 +1,6 @@
 """Unit and integration tests for main.py."""
 
-from fastapi.testclient import TestClient
+from fastapi.testclient import TestClient # pylint: disable=import-error
 
 from main import app, read_root, read_item
 
