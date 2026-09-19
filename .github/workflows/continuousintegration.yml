@@ -38,3 +38,5 @@ jobs:
           context: .
           push: false
           tags: jgjardim/devops-pucpr:latest
+
+
